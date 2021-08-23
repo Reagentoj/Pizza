@@ -44,7 +44,6 @@ public abstract class Pizza {
         this.ingredients.addAll(ingredients);
     }
 
-
     protected abstract void createDefaultPizza();
 
     /** Получить значение поля id */
